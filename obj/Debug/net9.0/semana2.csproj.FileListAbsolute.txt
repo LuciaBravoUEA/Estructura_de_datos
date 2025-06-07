@@ -1,0 +1,15 @@
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\bin\Debug\net9.0\semana2.exe
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\bin\Debug\net9.0\semana2.deps.json
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\bin\Debug\net9.0\semana2.runtimeconfig.json
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\bin\Debug\net9.0\semana2.dll
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\bin\Debug\net9.0\semana2.pdb
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.AssemblyInfoInputs.cache
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.AssemblyInfo.cs
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.dll
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\refint\semana2.dll
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.pdb
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.genruntimeconfig.cache
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\ref\semana2.dll
+C:\Users\Ryzen 7\OneDrive - Universidad Estatal Amazónica\Escritorio\deberes\semana2\obj\Debug\net9.0\semana2.sourcelink.json
