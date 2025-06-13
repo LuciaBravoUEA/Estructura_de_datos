@@ -1,0 +1,14 @@
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\bin\Debug\net9.0\semana3.exe
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\bin\Debug\net9.0\semana3.deps.json
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\bin\Debug\net9.0\semana3.runtimeconfig.json
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\bin\Debug\net9.0\semana3.dll
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\bin\Debug\net9.0\semana3.pdb
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.AssemblyInfoInputs.cache
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.AssemblyInfo.cs
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.csproj.CoreCompileInputs.cache
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.dll
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\refint\semana3.dll
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.pdb
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.genruntimeconfig.cache
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\ref\semana3.dll
