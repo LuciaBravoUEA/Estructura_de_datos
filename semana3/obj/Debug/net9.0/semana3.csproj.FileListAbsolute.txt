@@ -12,3 +12,4 @@ C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\refint\semana3.dll
 C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.pdb
 C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.genruntimeconfig.cache
 C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\ref\semana3.dll
+C:\PROYECTOS\ESTRUCTURA-DE-DATOS\semana3\obj\Debug\net9.0\semana3.sourcelink.json
